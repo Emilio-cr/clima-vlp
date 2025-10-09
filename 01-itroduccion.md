@@ -1,5 +1,29 @@
 # 🌎 Introducción: Motivación y percepción climática
 
+
+# 🌍 Temario general
+
+1. **Introducción y motivación**  
+   Contexto actual, objetivos de la charla y relevancia regional.
+
+2. **Conceptos básicos del sistema climático**  
+   Diferencias entre tiempo y clima.  
+   Cómo se estudia el clima desde las ciencias atmosféricas.
+
+3. **Variabilidad y cambio climático**  
+   Variabilidad natural y cambio climático antropogénico.  
+   Evidencias observadas y proyecciones futuras para Chile central.
+
+4. **Análisis local: Región de Valparaíso**  
+   Observaciones meteorológicas, simulaciones del modelo WRF y registros de incendios (2014–2021).
+
+5. **Condiciones meteorológicas e incendios**  
+   Factores de ocurrencia y propagación.  
+   Resultados del estudio: umbrales térmicos y de viento.
+
+6. **Conclusiones y reflexión final**  
+   Comprender el clima como herramienta para la prevención y la adaptación.
+
 ## 🖼️ **PPT 1 – ¿Por qué hablar del clima?**
 > *Imagen de fondo:* collage de titulares nacionales sobre sequías, incendios, inundaciones y déficit hídrico.  
 > *Mensaje visual:* “¿Por qué hablar del clima?”
